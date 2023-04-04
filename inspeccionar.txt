@@ -1,0 +1,11 @@
+LABORATORIO 2 -SELECTORS
+1.- <a href="/es-es/"
+2.- <button class="_mobileMainMenuItem__action_npbm6 _mobileMainMenuItem__action_fq8gug _mobileMainMenuItem__action_r0yk7 _mobileMainMenuItem__action_0x7vz _mobileMainMenuItem__action_depwy" type="button" aria-label="Para equipos: Abrir submenú" data-test="mobile-main-menu-item-action">Para equipos</button>
+3.- <svg viewBox="0 0 24 24" class="_wt-icon_bxtje _m_aq1fd _siteHeaderAction__icon_hdx6 _siteHeaderAction__icon_tjvv9f _icon_1dh718a_569"><circle cx="6" cy="19" r="2"></circle><circle cx="16" cy="19" r="2"></circle><path d="M19.997 7H7.13l-.885-2.352A1 1 0 0 0 5.308 4H2v2h2.628L5 7l2.368 7.103a2 2 0 0 0 2.53 1.265l8.734-2.912A2 2 0 0 0 20 10.557z"></path></svg>
+4.- <a...descargar</a>
+5.- <use href="#collaboracion"></use>
+6.- href="..."profiler</a>
+7.- <li clas= "...."></li>
+8.- <a...> descargar</a>
+9.- <a href="....compare...> </a>
+10.-<div class=" wt-tooltip_content">
